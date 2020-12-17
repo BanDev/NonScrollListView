@@ -16,7 +16,7 @@ allprojects {
 **Step 2.** Add the dependency
 ```groovy
 dependencies {
-    implementation 'com.github.bandev:NonScrollListView:1.0.1'
+    implementation 'com.github.BanDev:NonScrollListView:1.0.0'
 }
 ```
 
